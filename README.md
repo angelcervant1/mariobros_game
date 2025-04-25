@@ -15,4 +15,4 @@ A side-scrolling platformer game inspired by Super Mario Bros, developed using J
 
 This project provided hands-on experience with Java fundamentals, OOP design patterns, and 2D game development, laying a strong foundation for more complex game and software engineering challenges.
 
-["DEMO"](/assets/intro.png)
+[!["DEMO"](/assets/intro.png)]
