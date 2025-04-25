@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=koopa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ onGround()
+comment3.params=
+comment3.target=boolean\ onEmpty()
+comment4.params=
+comment4.target=boolean\ onVacio()
+comment5.params=
+comment5.target=void\ checkFall()
+comment6.params=
+comment6.target=void\ fall()
+numComments=7

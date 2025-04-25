@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=lifeBarTecno
+comment1.params=v
+comment1.target=lifeBarTecno(int)
+comment2.params=
+comment2.target=void\ dibuja()
+comment3.params=n
+comment3.target=void\ decrementar(int)
+comment4.params=
+comment4.target=int\ life()
+comment5.params=n
+comment5.target=void\ incrementar(int)
+comment6.params=r\ g\ b
+comment6.target=void\ backGround(int,\ int,\ int)
+comment7.params=r\ g\ b
+comment7.target=void\ foreColor(int,\ int,\ int)
+numComments=8
